@@ -1,0 +1,10 @@
+venv/
+app/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+data/
+mysql_data/
+redis_data/
