@@ -3,6 +3,10 @@
 Production-Ready AI Financial Analysis System (CrewAI + NVIDIA NIM + FastAPI + Celery + MySQL + Redis + Docker)
 
 ---
+#output
+<img width="2560" height="1440" alt="Screenshot 2026-02-27 112525" src="https://github.com/user-attachments/assets/9c06ef8c-c4f1-44f0-9c2d-46215c7980ad" />
+to know visualiztion of output go to app/outputs u will see the outputs images and sql.txt .  
+
 
 # Overview
 
